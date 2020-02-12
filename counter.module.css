@@ -1,0 +1,27 @@
+.btn1{
+    width:100px;
+    margin-left: calc(38%);
+    height:30px;
+    border-radius: 6px;
+
+    
+}
+.btn2{
+    width:100px;
+    margin-left: 0px;
+    height:30px;
+    border-radius: 6px;
+    
+}
+.text{
+    text-align: center;
+    padding-top: 90px;
+    margin-top: 0px;
+}
+.maindiv{
+    background-color: cyan;
+    height:50vh;
+    
+    
+}
+
